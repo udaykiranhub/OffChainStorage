@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udaykiranhub/OffChainStorage.git/static/css/main.e565aa96.css",
+    "main.js": "/udaykiranhub/OffChainStorage.git/static/js/main.3a568ca1.js",
+    "static/js/453.a6a97343.chunk.js": "/udaykiranhub/OffChainStorage.git/static/js/453.a6a97343.chunk.js",
+    "index.html": "/udaykiranhub/OffChainStorage.git/index.html",
+    "main.e565aa96.css.map": "/udaykiranhub/OffChainStorage.git/static/css/main.e565aa96.css.map",
+    "main.3a568ca1.js.map": "/udaykiranhub/OffChainStorage.git/static/js/main.3a568ca1.js.map",
+    "453.a6a97343.chunk.js.map": "/udaykiranhub/OffChainStorage.git/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e565aa96.css",
+    "static/js/main.3a568ca1.js"
+  ]
+}
